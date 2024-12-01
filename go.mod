@@ -16,6 +16,3 @@ require (
 	gopkg.in/yaml.v2 v2.2.8
 )
 
-replace (
-	gopkg.in/urfave/cli.v2 => github.com/urfave/cli/v2 v2.27.1
-)
