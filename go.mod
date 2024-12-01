@@ -1,4 +1,4 @@
-module github.com/oxequa/realize
+module github.com/Asunaro-k/realize
 
 go 1.14
 
@@ -14,4 +14,8 @@ require (
 	github.com/valyala/fasttemplate v1.1.0 // indirect
 	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0
 	gopkg.in/yaml.v2 v2.2.8
+)
+
+replace (
+	gopkg.in/urfave/cli.v2 => github.com/urfave/cli/v2 v2.27.1
 )
