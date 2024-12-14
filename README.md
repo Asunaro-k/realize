@@ -1,3 +1,7 @@
+普通にAirに移行したほうが早かったので凍結
+
+
+
 <p align="center">
   <img src="https://i.imgur.com/vJfIiId.png" width="125px">
 </p>
